@@ -1,0 +1,18 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* shared-style */
+.font-color{
+    color: #E6533C;
+
+}
+
+/* header-section-style */
+.header-title{
+    font-size: 36px;
+}
